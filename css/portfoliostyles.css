@@ -1,0 +1,24 @@
+.jtronheaderone {
+  position: relative;
+  top: -35px;
+  left: 15px;
+}
+
+.jtronpara {
+  position: relative;
+  top: -30px;
+  left: 15px;
+}
+
+.rgorepic {
+  max-width: 150px;
+  height: auto;
+  position: relative;
+  top: -30px;
+}
+
+.primary-body-col {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: silver;
+}
