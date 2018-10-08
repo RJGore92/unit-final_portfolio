@@ -13,6 +13,7 @@
 .rgorepic {
   max-width: 150px;
   height: auto;
+  float: left;
   position: relative;
   top: -30px;
 }

@@ -1,6 +1,6 @@
 # Epicodus Unit One Final: Portfolio
 
-#### Final Project for Epicodus Unit One, 10/02/2018 start date
+#### Final Project for Epicodus Unit One, 10/02/2018 start date, 10/08/2018 revision date
 
 #### By **Robert James "Jimmy" Gore**
 
@@ -13,6 +13,7 @@ The primary purpose of this site is to establish a basic portfolio under the gui
 * Install Git Bash for Git repository cloning of the project
 * Install Atom for review and edit of Code
 * To access repository for project and review code, first clone repository at the appropriate link, then use Git Bash and/or Atom to open the project folder.
+* The GitHub Pages link is RJGore92.github.io/unit-final_portfolio
 
 ## Known Bugs
 
